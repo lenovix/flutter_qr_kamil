@@ -1,16 +1,14 @@
-# flutter_qr_kamil
+# QR Code Generator Application
 
-Application to generate QR
+## Description
+This project is created to enhance my portfolio. The application serves as a tool for generating QR codes that users can utilize for various personal and business purposes. 
 
-## Getting Started
+With this application, users can easily create QR codes containing various types of information such as website URLs, contact details, text messages, or any other data they wish to encode. This provides convenience and efficiency, especially in scenarios where QR codes are used for marketing, networking, or information dissemination.
 
-This project is a starting point for a Flutter application.
+## Key Features
+1. **QR Code Generation:** Enables users to generate QR codes for different types of data, including URLs, contact information, text messages, etc.
+2. **Customization Options:** Offers customization options such as size, color, and error correction level to tailor the QR code appearance to user preferences.
+3. **Easy-to-Use Interface:** Designed with a user-friendly interface to ensure seamless navigation and QR code generation process.
+4. **Download and Sharing:** Allows users to download the generated QR codes as image files or share them directly through various channels like email or social media.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+By providing a simple yet powerful QR code generation tool, this application adds value to users' personal and professional endeavors, making it a valuable addition to my portfolio.
