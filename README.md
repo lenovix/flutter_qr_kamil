@@ -1,5 +1,6 @@
 # QR Code Generator Application
-
+![Globe](https://raw.githubusercontent.com/lenovix/flutter_qr_kamil/master/sc1.png)
+![Globe](https://raw.githubusercontent.com/lenovix/flutter_qr_kamil/master/sc2.png)
 ## Description
 This project is created to enhance my portfolio. The application serves as a tool for generating QR codes that users can utilize for various personal and business purposes. 
 
